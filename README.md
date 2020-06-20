@@ -2,6 +2,7 @@
 
 - 依照[教程](https://www.bilibili.com/video/BV1WJ411N75K?from=search&seid=1472368564885352564)实现的代码。
 - 初步了解 mobx 状态管理器的逻辑。
+- 功能：模拟实现一个 todo list 小程序，实现添加、删除和重置等功能。
 
 ## 装饰器支持配置
 
